@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://gitlab.dev1.in/md-ios/SensitiveSweets.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	puttykeyfile = D:\\SSH keys\\gitlab\\private.ppk
